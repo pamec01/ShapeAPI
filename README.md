@@ -4,6 +4,7 @@ frontend běží na `http://localhost:8080/index.html`
 
 ověření v postmanu pomocí POST na `http://localhost:8080/api/shape/full`
 
+![tvar](https://github.com/user-attachments/assets/6513e40c-3313-4d61-9465-acd1c8f19028)
 
 
 pro aplikaci použit template https://github.com/danvega/full-stack-java-vue
