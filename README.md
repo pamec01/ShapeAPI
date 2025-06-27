@@ -1,6 +1,9 @@
 spuštění pomocí `./mvnw spring-boot:run` v rootu projektu
+
 frontend běží na `http://localhost:8080/index.html`
+
 ověření v postmanu pomocí POST na `http://localhost:8080/api/shape/full`
+
 
 
 pro aplikaci použit template https://github.com/danvega/full-stack-java-vue
