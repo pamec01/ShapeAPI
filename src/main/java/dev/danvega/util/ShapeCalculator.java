@@ -3,6 +3,8 @@ package dev.danvega.util;
 import dev.danvega.model.Shape;
 import dev.danvega.model.ShapeType;
 
+//TODO check zda sedí přesnost desetinných míst, na první dobrou by mohlo stačit
+
 public class ShapeCalculator {
 
     public static Shape calculateMissingAttribute(Shape shape) {
