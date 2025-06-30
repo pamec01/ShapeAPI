@@ -1,3 +1,13 @@
+spuštění pomocí `./mvnw spring-boot:run` v rootu projektu
+
+frontend běží na `http://localhost:8080/index.html`
+
+ověření v postmanu pomocí POST na `http://localhost:8080/api/shape/full`
+
+![tvar](https://github.com/user-attachments/assets/6513e40c-3313-4d61-9465-acd1c8f19028)
+
+
+pro aplikaci použit template https://github.com/danvega/full-stack-java-vue
 # Spring Boot + VueJS Template
 
 This is a template for anyone looking to use Spring Boot + Vue.JS in the same project. 
